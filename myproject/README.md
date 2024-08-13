@@ -9,4 +9,7 @@ Currently, two official plugins are available:
 
 
 
-i am manoj kumar
+name : manoj kumar 
+age : 23
+sex : male
+student of 10k coders 
